@@ -10,29 +10,14 @@ Comments are powered by [giscus](https://giscus.app) (GitHub Discussions).
 
 ## One-time setup
 
-1. **Create the GitHub repo** — on github.com, create a new public repository
-   named `myAwakeningJourney` (no README/license — this folder already has them),
-   then from this folder:
-
-   ```
-   git remote add origin https://github.com/francoischarette/myAwakeningJourney.git
-   git push -u origin main
-   ```
-
-2. **Enable GitHub Pages** — repo → Settings → Pages → under *Build and
-   deployment*, set Source to **Deploy from a branch**, branch `main`, folder
-   `/ (root)`. A minute or two later the site is live.
-
-3. **Enable Discussions** — repo → Settings → General → Features → check
-   **Discussions**.
-
-4. **Configure giscus** — install the giscus app at
-   https://github.com/apps/giscus (grant it just this repo), then go to
-   https://giscus.app, enter `francoischarette/myAwakeningJourney`, pick the
-   **Announcements** category and *Discussion title contains page pathname*.
-   From the generated snippet copy `data-repo-id` and `data-category-id` into
-   the `giscus:` section of `_config.yml`. Push — comments appear under every
-   post.
+- [x] **Repo created and pushed** — https://github.com/FrancoisCharette/myAwakeningJourney
+- [x] **GitHub Pages enabled** — deploying from `main`, root folder
+- [x] **Discussions enabled**
+- [x] **giscus IDs filled into `_config.yml`** (`repo_id`, `category_id`, category *Announcements*)
+- [ ] **Install the giscus app** — the only remaining step, and it must be done
+      from your own GitHub account: visit https://github.com/apps/giscus →
+      *Install* → **Only select repositories** → `myAwakeningJourney`. Comments
+      go live immediately afterwards; no code change needed.
 
 ## Writing a post
 

@@ -11,13 +11,13 @@ youtube_channel: "https://www.youtube.com/@FrancoisVenturesIntoAwakening"
 professional_site: "https://francoischarette.github.io/bio/"
 
 # --- Giscus comments (powered by GitHub Discussions) ---
-# Fill these in after running through https://giscus.app — see README.md, step 4.
-# Comments stay hidden on every post until repo_id and category_id are set.
+# IDs below were read from the GitHub API; comments render once the giscus
+# app is installed on this repo (https://github.com/apps/giscus).
 giscus:
-  repo: "francoischarette/myAwakeningJourney"
-  repo_id: ""
+  repo: "FrancoisCharette/myAwakeningJourney"
+  repo_id: "R_kgDOTmETzw"
   category: "Announcements"
-  category_id: ""
+  category_id: "DIC_kwDOTmETz84DCKFm"
 
 markdown: kramdown
 permalink: /posts/:title/
