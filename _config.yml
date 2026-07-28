@@ -1,0 +1,38 @@
+title: My Awakening Journey
+description: >-
+  Observations from an evolving spiritual journey — on spirituality,
+  human nature, and what technology is doing to human development.
+author: François Charette
+url: "https://francoischarette.github.io"
+baseurl: "/myAwakeningJourney"
+
+# Links shown in the site header/footer
+youtube_channel: "https://www.youtube.com/@FrancoisVenturesIntoAwakening"
+professional_site: "https://francoischarette.github.io/bio/"
+
+# --- Giscus comments (powered by GitHub Discussions) ---
+# Fill these in after running through https://giscus.app — see README.md, step 4.
+# Comments stay hidden on every post until repo_id and category_id are set.
+giscus:
+  repo: "francoischarette/myAwakeningJourney"
+  repo_id: ""
+  category: "Announcements"
+  category_id: ""
+
+markdown: kramdown
+permalink: /posts/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Values applied to every post automatically
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md
+  - LICENSE

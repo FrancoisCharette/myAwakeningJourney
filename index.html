@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section class="intro">
+  <h1>Observations from the journey</h1>
+  <p>
+    Notes on spirituality, human nature, and what technology is doing to human
+    development — written down so they can be revisited, challenged, and revised.
+    Unlike a video, nothing here is final: when my understanding evolves, so does
+    the post. Your comments are part of that process.
+  </p>
+</section>
+
+<section class="post-list">
+  {% for post in site.posts %}
+  <article class="post-preview">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      {% if post.updated %} · <span class="updated">revised {{ post.updated | date: "%B %-d, %Y" }}</span>{% endif %}
+      {% for cat in post.categories %}
+        <a class="topic-tag" href="{{ '/topics/' | relative_url }}#{{ cat | slugify }}">{{ cat }}</a>
+      {% endfor %}
+    </p>
+    <p>{{ post.excerpt | strip_html | truncate: 220 }}</p>
+  </article>
+  {% endfor %}
+</section>

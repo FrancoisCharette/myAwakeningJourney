@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.updated %}
+        · <span class="updated">last revised {{ page.updated | date: "%B %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.categories.size > 0 %}
+        ·
+        {% for cat in page.categories %}
+          <a class="topic-tag" href="{{ '/topics/' | relative_url }}#{{ cat | slugify }}">{{ cat }}</a>
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  {{ content }}
+
+  {% if page.evolution %}
+  <aside class="evolution">
+    <h2>How my thinking has evolved</h2>
+    <ul>
+      {% for note in page.evolution %}
+      <li><strong>{{ note.date | date: "%B %Y" }}</strong> — {{ note.note }}</li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <section class="comments">
+    <h2>Your perspective</h2>
+    <p class="comments-invite">
+      Agree, disagree, or see it from another angle entirely? Leave your view below —
+      diverse perspectives are how this journal (and its author) evolve.
+    </p>
+    {% include giscus.html %}
+  </section>
+</article>
