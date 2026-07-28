@@ -6,25 +6,18 @@ permalink: /topics/
 <h1>Topics</h1>
 <p>Everything on the site, grouped by theme.</p>
 
-{% assign cats = "" | split: "" %}
-{% for post in site.posts %}
-  {% for cat in post.categories %}
-    {% unless cats contains cat %}{% assign cats = cats | push: cat %}{% endunless %}
-  {% endfor %}
-{% endfor %}
-{% assign cats = cats | sort %}
-
-{% for cat in cats %}
+{% assign groups = site.categories | sort %}
+{% for group in groups %}
+  {% assign cat = group[0] %}
+  {% assign posts = group[1] %}
 <section class="topic-group" id="{{ cat | slugify }}">
   <h2>{{ cat }}</h2>
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains cat %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="post-meta">— {{ post.date | date: "%B %Y" }}</span>
-      </li>
-      {% endif %}
+    {% for post in posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta">— {{ post.date | date: "%B %Y" }}</span>
+    </li>
     {% endfor %}
   </ul>
 </section>
