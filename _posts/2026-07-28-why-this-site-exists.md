@@ -5,7 +5,7 @@ categories: [Spirituality]
 
 A few years ago I started
 [a YouTube channel](https://www.youtube.com/@FrancoisVenturesIntoAwakening)
-to share observations from my spiritual journey. <span style="color:#ffc800">After a few videos</span>, I stopped.
+to share observations from my spiritual journey. After a few videos, I stopped.
 
 Partly it was practical: recording and editing video is time-consuming, and it
 was never my medium. But the deeper problem was this — **a published video is
