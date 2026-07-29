@@ -1,6 +1,9 @@
 ---
 title: "The two weeks my body carried on without me"
 categories: [Spirituality]
+# Published 29 July 2026 — the 4th anniversary of the accident (29 July 2022).
+# Kept as a comment on purpose: the post is written to be timeless, so no
+# elapsed-time phrasing belongs in the prose itself.
 ---
 
 On July 29th 2022, a car ran a red light and hit my motorcycle at an intersection less than a mile from my house. I have no memory of that day. I have no memory of the two weeks that followed either. Everything I am about to tell you about those two weeks comes from the police report and
