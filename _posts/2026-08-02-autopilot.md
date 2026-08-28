@@ -1,6 +1,6 @@
 ---
 title: "The autopilot is always running"
-categories: [Spirituality, Human Nature]
+categories: [Human Nature]
 ---
 
 In the last post I described the two weeks after my motorcycle accident, when my body carried on without me and nobody in my family noticed. I ended with a question I have been circling ever since: how much of an ordinary day is run by that same autopilot, with nobody home and nobody noticing?
