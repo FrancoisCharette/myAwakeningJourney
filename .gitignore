@@ -5,3 +5,7 @@ Gemfile.lock
 
 *.ps1
 *.cmd
+
+# _posts is a junction into the Obsidian vault; only date-prefixed posts are the site's
+_posts/*
+!_posts/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*.md
