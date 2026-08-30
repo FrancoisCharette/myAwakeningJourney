@@ -13,7 +13,9 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 > A simple example of propaganda that comes to mind is that all of my life I have heard it mentioned in the news, documentaries, etc. how governments "waste" money to buy or build this or that. Nowadays, with social media, it is clear it was never "waste" but actual "fraud". The difference between "waste" and "fraud" is drastic. "Waste" represents incompetence, mismanagement, errors, etc., so there is nothing you can really do about it, while "fraud" is a VOLUNTARY criminal act to enrich someone. That kind of language misuse is, for me, intentional and not an "error"; it _represents propaganda_ to control the emotional response of the public. They explicitly used the term "waste" to elicit disappointment, frustration, etc., nothing more. The use of the term "fraud" would have elicited anger, demands for action, etc.
 
 
+
 # Glossary
+
 
 ### Ego
 Is the "Human interface" for this 3D physical reality. It is made of a "trainable brain" construct that includes the self-talk, inner voice, "audio-visual" imagination, and all thoughts, including the body emotions (fear, stress, etc.) and feelings (happiness, love, etc.) attached to them. In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are seen apart.
@@ -30,6 +32,7 @@ I — or rather, my EGO — has ALWAYS "thought, conceptualized" that AWAKENING 
 
 ### Default Mode Network, DMN
 I have seen many videos in the past discussing the brain's "Default Mode Network". Neuroscience identified it as being active when self-talk or the inner voice is present.
+
 
 # References
 
