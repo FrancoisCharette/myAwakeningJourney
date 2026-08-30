@@ -27,8 +27,12 @@ body {
   color: var(--text);
   font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   font-size: 1.125rem;
-  line-height: 1.7;
+  line-height: 1.5;
 }
+
+/* Paragraph gap must exceed the line gap, or paragraph breaks stop reading
+   as breaks. 1.5 line-height matches Obsidian's --line-height-normal. */
+p { margin: 1.2em 0; }
 
 .site-header, .content, .site-footer {
   max-width: var(--max-width);
