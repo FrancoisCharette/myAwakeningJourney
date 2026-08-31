@@ -16,24 +16,28 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 
 # Glossary
 
-
-### Ego
-Is the "Human interface" for this 3D physical reality. It is made of a "trainable brain" construct that includes the self-talk, inner voice, "audio-visual" imagination, and all thoughts, including the body emotions (fear, stress, etc.) and feelings (happiness, love, etc.) attached to them. In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are seen apart.
-
-
 ### Awakening
-I — or rather, my EGO — has ALWAYS "thought, conceptualized" that AWAKENING is a "STATE of MIND or BEING". What I recently realized and observed in various YouTube videos is that AWAKENING is a never-ending "journey" or process that has NO "END-POINT" or DESTINATION. AWAKENING is "designed" to be USED in this 3D reality in conjunction with the EGO:
+I — or rather, my EGO — has ALWAYS "thought, conceptualized" that AWAKENING is a "STATE of MIND or BEING". What I recently realized and observed in various YouTube videos is that AWAKENING is a never-ending "journey" or process that has NO "END-POINT" or DESTINATION. AWAKENING is "designed" to be USED in this Space-Time reality in conjunction with the EGO:
 
 * EGO ↔ SELF
 * HUMAN ↔ BEING
+* Duality ↔ Non-duality
+* Form ↔ Formless
 
 > This observation explains why my EGO constantly judges if someone is AWAKENED or not. That judgement was always based on evaluating a state of mind. Now, I know that was an "error" and someone awake is simply on a "journey" like me!
 
 
 ### Default Mode Network, DMN
-I have seen many videos in the past discussing the brain's "Default Mode Network". Neuroscience identified it as being active when self-talk or the inner voice is present.
+I have seen many videos in the past discussing the brain's "Default Mode Network". Neuroscience identified it as being active when self-talk or the inner voice is present. It can be viewed as the "residence" for the Ego!
 
 
+### Ego
+Is the "Human interface" for this Space-Time physical reality. It is made of a "trainable brain construct" that includes the self-talk, inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions (fear, stress, etc.) and feelings (happiness, love, etc.). In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are "explicitly" seen apart.
+
+
+
+---
+---
 # References
 
 - [A default mode of brain function (PNAS 2001)](https://www.researchgate.net/publication/12122387_A_default_mode_of_brain_function)
