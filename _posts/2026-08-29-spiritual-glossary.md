@@ -38,7 +38,7 @@ Neuroscience identified the brain's "Default Mode Network" as being active when 
 ### Ego
 Is the "Human interface" for this Space-Time physical reality. It is made of a "trainable brain construct" that includes the self-talk, inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions (fear, stress, etc.) and feelings (happiness, love, etc.). In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are "explicitly" seen apart.
 
->Note the fact that there are about 8,311,683,693 human form currently in 2026 on this planet, which implies there are 8,311,683,693 different Ego's with different experiences considering only the Human specie. With such variability, any time that I mention or discuss the Ego, it is up to you to use _your critical thinking_ and decide if it applies or not to your own experiences! 
+>Note the fact that there are about 8,311,683,693 human form currently in 2026 on this planet, which implies there are 8,311,683,693 different Ego's with different experiences, considering only the Human specie. With such variability, any time that I mention or discuss the Ego, it is up to you to use __your critical thinking__ and decide if it applies or not to your own experiences! 
 
 
 
