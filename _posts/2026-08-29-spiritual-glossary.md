@@ -16,20 +16,23 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 
 
 # Glossary
+- [Awakening](#awakening)
+- [Default Mode Network, DMN](#default-mode-network-dmn)
+- [Ego](#ego)
 
+[References](#references)
+
+
+
+---
 ### Awakening
-I — or rather, my EGO — has ALWAYS "thought, conceptualized" that AWAKENING is a "STATE of MIND or BEING". What I recently realized and observed in various YouTube videos is that AWAKENING is a never-ending "journey" or process that has NO "END-POINT" or DESTINATION. AWAKENING is "designed" to be USED in this Space-Time reality in conjunction with the EGO:
+My Ego has always conceptualized that awakening is a "STATE". What I recently realized and observed in various YouTube videos is that awakening is actually a never-ending journey or process that has no end-point or destination. awakening is designed to be part and used in this Space-Time reality in conjunction with the Ego.
 
-* EGO ↔ SELF
-* HUMAN ↔ BEING
-* Duality ↔ Non-duality
-* Form ↔ Formless
-
-> This observation explains why my EGO constantly judges if someone is AWAKENED or not. That judgement was always based on evaluating a state of mind. Now, I know that was an "error" and someone awake is simply on a "journey" like me!
+> This observation explains why my Ego constantly judges if someone is awakened or not. That judgement was always based on evaluating a "STATE". Now, I know that was an "error" and someone awake is simply on a "journey" at a different phase or level, like me!
 
 
 ### Default Mode Network, DMN
-I have seen many videos in the past discussing the brain's "Default Mode Network". Neuroscience identified it as being active when self-talk or the inner voice is present. It can be viewed as the "residence" for the Ego!
+Neuroscience identified the brain's "Default Mode Network" as being active when self-talk or the inner voice is present. It can be viewed as the "residence" for the Ego!
 
 
 ### Ego
