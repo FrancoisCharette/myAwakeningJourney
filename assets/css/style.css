@@ -110,8 +110,14 @@ a { color: var(--accent); }
 
 .post img { max-width: 100%; height: auto; }
 
+/* A list or quote that follows an introducing paragraph belongs with it, so
+   its gap stays tighter than the paragraph gap. Blank lines in Markdown are
+   structure, not spacing - the spacing is set here. */
+ul, ol { margin: 0.5em 0; padding-left: 1.5rem; }
+li { margin: 0.25em 0; }
+
 blockquote {
-  margin: 1.5rem 0;
+  margin: 0.9rem 0;
   padding: 0.25rem 1.25rem;
   border-left: 3px solid var(--accent);
   background: var(--accent-soft);

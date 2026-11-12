@@ -25,13 +25,13 @@ I would not claim it changed my life that day. What it did was smaller and more 
 
 On Friday July 29th 2022, around 5:00 p.m., I rode to a sub shop to pick up dinner. On the way back I stopped at a red light at a large intersection — two lanes north, two south, three east, three west — in dense California Friday traffic.
 
-According to five witnesses, when the light turned green I moved forward and a car crossing on the red hit my motorcycle. I was thrown off, flipped over the car, and landed motionless on the far side. The motorcycle was totaled, so it was a hard hit.
+According to five witnesses, when the light turned green I moved forward and a car crossing on the red hit my motorcycle. I was thrown off, flipped over the car, and landed unconscious and motionless on the far side. The motorcycle was totaled, so it was a hard hit.
 
 The medical scans found two brain bleeds, one on the surface of the brain and one deep inside. By luck, the blood was not pooling anywhere, which would have been a much bigger problem. I arrived at the trauma center as a John Doe.
 
-My wife is handicapped and cannot drive. When I was late coming home she tried calling, and after half an hour she asked my daughter — who happened to be visiting that week — to go look for me. It did not take my daughter long to find an accident at a busy intersection a mile from the house, and to recognize the motorcycle on the side of the road as mine. The police showed her a driver's license photo. She identified me and drove to the trauma center.
+My wife is handicapped and cannot drive. When I was late coming home she tried calling, and after half an hour of trying she asked my daughter — who happened to be visiting that week — to go look for me. It did not take my daughter long to find an accident at a busy intersection a mile from the house, and to recognize the orange motorcycle on the side of the road as mine. The police showed her a driver's license photo. She identified me and drove to the trauma center.
 
-When she found me, a doctor was working through the standard questions they ask someone with that kind of injury, and I was completely unresponsive. My daughter took my hand, said hello, and asked me how I was — in French, my native language. I squeezed her hand. The doctor asked her to put the standard questions to me in French, and apparently I answered most of them correctly. He told her that reverting to your first language is normal with this type of trauma, and that recovery would take time but should be complete. He was right.
+When she found me, a doctor was working through the standard questions they ask someone with that kind of injury, and I was completely unresponsive, eyes closed. My daughter took my hand, said hello, and asked me how I was — in French, my native language. I squeezed her hand. The doctor noticed that movement and asked her to put the standard questions to me in French, and apparently I answered most of them correctly. The doctor told her that reverting to your first language is normal with this type of trauma, and that recovery would take time but should be complete. Fortunately for me, he was right.
 
 The intensive care unit was crowded, and the next day, after more scans, the doctor asked my daughter whether she could simply take me home — there was nothing more they could do for me there. I am a two-hundred-pound man who could not stand up straight. Two nurses helped load me into the car. At the house, my wife and daughter moved me from the car onto my wife's electric scooter, drove me to the bedroom, and dragged me into bed.
 
@@ -55,7 +55,7 @@ That is the detail that has stayed with me ever since the accident, and it is th
 
 Nobody noticed.
 
-For two weeks my family had been living with my body, caring for it, speaking to it, and getting answers back — and not one of them registered that the person they were talking to was not there. Later that first day back I heard my wife and daughter discussing the accident, started asking questions, and was handed the police report. That is how I learned my son had flown in from out of state and spent most of those two weeks in our house. He had left the morning before. I have no recollection of him being there at all.
+For two weeks my family had been living with my body, caring for it, speaking to it, and getting answers back — and not one of them registered that the person they were talking to was not there. Later that first day back I heard my wife and daughter discussing the accident, so I started asking questions, and was handed the police report. That is how I learned my son had flown in from out of state and spent most of those two weeks in our house. He had left the morning before. I have no recollection of him being there at all.
 
 The only difference my wife had noticed was that I was not talkative. I answered when spoken to. I never started a conversation, never asked anything, never volunteered. For a man recovering from a traumatic brain injury, that seemed entirely normal to everyone.
 

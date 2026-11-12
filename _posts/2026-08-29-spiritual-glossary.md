@@ -2,6 +2,7 @@
 title: Spiritual Glossary
 categories:
   - Human Nature
+updated: 2026-11-12
 ---
 
 The reason I feel compelled to make this glossary is that English is not my first language, and since the start of my awakening I have realized that all of my life I have been using the English language incorrectly, or at least imprecisely. What I mean by that is that as long as the message seemed to be understood by people, I simply moved on. Unless it was a friend or a close co-worker, most of the time people would not necessarily understand me the first time we met and talked because of my accent and my wording, so I often had to repeat myself using different terms just to convey the message.
@@ -33,6 +34,8 @@ I have seen many videos in the past discussing the brain's "Default Mode Network
 
 ### Ego
 Is the "Human interface" for this Space-Time physical reality. It is made of a "trainable brain construct" that includes the self-talk, inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions (fear, stress, etc.) and feelings (happiness, love, etc.). In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are "explicitly" seen apart.
+
+>Note the fact that there are about 8,311,683,693 human form currently in 2026 on this planet, which implies there are 8,311,683,693 different Ego's with different experiences. With such variability, any time that I mention or discuss the Ego, it is up to you to use your critical thinking and decide if it applies or not to your own experiences! 
 
 
 
