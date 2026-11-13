@@ -150,3 +150,12 @@ blockquote {
 }
 
 .footer-note { font-style: italic; }
+
+/* Footnote citations ([^name] in Markdown). line-height: 0 keeps a
+   superscript from pushing its line away from the ones around it. */
+sup { line-height: 0; }
+sup a { text-decoration: none; }
+.footnotes { font-size: 0.9rem; color: var(--muted); }
+.footnotes li { margin: 0.5em 0; }
+.footnotes p { margin: 0; }
+.footnotes a.reversefootnote { text-decoration: none; margin-left: 0.25em; }
