@@ -53,7 +53,7 @@ I am not alone in that view. Neuroscientists Robin Carhart-Harris and Karl Frist
 
 
 ### Disidentification
-A thought arises, and instead of being carried off inside it, you notice it arising. In that noticing, something is present that is _not_ the thought — it is what you actually are. It can be referenced by many labels, for example presence, awareness, the witnessing consciousness, Being, Formless, etc.
+Disidentification is the act of no longer taking your thoughts to be who you are. A thought arises, and instead of being carried off inside it, you notice it arising. In that noticing, something is present that is _not_ the thought — as Eckhart Tolle teaches it,[^tolle-now] that is what you actually are.[^claude] That something can be referred to by many labels, for example: presence, awareness, the witnessing consciousness, Being, the Formless, etc.
 
 
 
@@ -79,7 +79,7 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 
 # References
 
-[^claude]: Paragraph drafted by Claude, an AI assistant made by Anthropic.
+[^claude]: Drafted by Claude, an AI assistant made by Anthropic.
 
 [^oprah]: Winfrey, O. [Oprah talks to Eckhart Tolle](https://www.oprah.com/spirit/oprah-talks-to-eckhart-tolle/all). *O, The Oprah Magazine*.
 
