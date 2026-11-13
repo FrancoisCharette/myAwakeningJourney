@@ -58,20 +58,20 @@ Disidentification is the act of no longer taking your thoughts to be who you are
 
 
 ### Ego
-The ego is not arrogance or self-regard. It is the "Human interface"  created by the Mind for this Space-Time physical reality interactions. It is made of a "trainable and programmable brain structure" that includes the self-talk, inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions (fear, stress, etc.) and feelings (happiness, love, etc.). It develops into a sense of identity assembled out of thought — your roles, possessions, opinions, grievances, your story about your past and your wanting for the future. It is a structure, not a moral failing.
+The Ego is the "Human interface" created by the Mind for interacting with this Space-Time physical reality. It is made of a "trainable and programmable brain structure" that includes self-talk, the inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions and feelings (fear, stress, happiness, love, etc.).
 
-Its defining need is to feel separate and to feel _more_. So it sustains itself on complaint, resistance, comparison, being right, and above all on having a problem. An ego with nothing to resist starts to dissolve, which is why it will manufacture something.
+As Eckhart Tolle describes it,[^new-earth] the Ego is not arrogance or self-regard. It develops into a sense of identity assembled out of thought — your roles, possessions, opinions, grievances, your story about your past and your wanting for the future. It is a structure, not a moral failing.[^claude]
 
-**Seeing it is the end of it**, because the ego only operates while unobserved. The moment you catch it running, the awareness doing the catching is already outside it.
+Its defining need is to feel separate and to feel _more_. So it sustains itself on complaint, resistance, comparison, being right, and above all on having a problem. An Ego with nothing to resist starts to lose its grip, which is why it will manufacture something.[^claude]
 
->Note the fact that there are about 8,311,683,693 human form currently in 2026 on this planet, which implies there are 8,311,683,693 different Ego's with different experiences, that is considering only the Human specie. That amount of Ego plus all their interactions creates an expansive amount of noise. With such quantity and variability, any time that I mention or discuss the Ego, it is up to you to use __your critical thinking__ and decide if it applies or not to your own experiences! 
+**Seeing it ends its control**, because the Ego only runs the show while it goes unobserved. The moment you catch it running, the awareness doing the catching is already outside it.[^claude]
+
+> __Personal Side Note:__
+> In my posts, when "I" judges, worries, or conceptualizes, it is usually this Ego speaking — the "I" and the Ego are the same construct until they are explicitly seen apart.
+>
+> Note the fact that there are about 8.3 billion human forms on this planet in 2026, which implies there are 8.3 billion different Egos with different experiences, and that is counting only the human species. That number of Egos, plus all their interactions, creates an enormous amount of noise. With such quantity and variability, any time I mention or discuss the Ego, it is up to you to use __your critical thinking__ and decide whether or not it applies to your own experiences!
 
 
-"I"
- In my posts, when "I" judges, worries, or conceptualizes, it is usually this EGO speaking — the "I" and the EGO are the same construct until they are "explicitly" seen apart.
-
-
----
 ---
 # Further reading
 
@@ -94,4 +94,6 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 [^carhart-harris-2010]: Carhart-Harris, R. L., & Friston, K. J. (2010). [The default-mode, ego-functions and free-energy: a neurobiological account of Freudian ideas](https://pmc.ncbi.nlm.nih.gov/articles/PMC2850580). *Brain*, 133(4), 1265–1283.
 
 [^brewer-2011]: Brewer, J. A., et al. (2011). [Meditation experience is associated with differences in default mode network activity and connectivity](https://www.pnas.org/doi/10.1073/pnas.1112029108). *PNAS*, 108(50), 20254–20259.
+
+[^new-earth]: Tolle, E. (2005). *A New Earth: Awakening to Your Life's Purpose*. Dutton.
 
