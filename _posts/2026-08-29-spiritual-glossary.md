@@ -27,7 +27,7 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 
 ---
 ### Awakening
-As Eckhart Tolle teaches it, awakening is **a shift in consciousness, not an achievement of the mind**. Nothing is added to you and nothing is learned. What happens is that awareness separates from thought — you stop being the stream of thinking and become the space in which thinking is noticed. 
+As Eckhart Tolle teaches it, awakening is **a shift in consciousness, not an achievement of the mind**. Nothing is added to you and nothing is learned. What happens is that awareness separates from thought — you stop being the stream of thinking and become the space in which thinking is noticed.[^claude]
 
 Awakening does not destroy the Ego. Form still has function; awakened consciousness acts through a person, a personality, a life. What ends is the Ego’s claim to be the one in charge.[^claude] As an often-quoted saying, usually attributed to Zen, puts it:
 
@@ -41,14 +41,14 @@ Awakening does not destroy the Ego. Form still has function; awakened consciousn
 
 
 > __About Eckhart Tolle:__
-> Tolle’s own turning point was the sentence that ran through him at 29[^oprah], in the depths of a suicidal depression: “I cannot live with myself any longer.”[^tolle-now] He then noticed the strangeness of it — if that is true, there must be two of him: the “I” and the “self” he cannot live with.[^onbeing] One of them, he concluded, must not be real. That split is the whole teaching in miniature.
+> Tolle’s own turning point was the sentence that ran through him at 29[^oprah], in the depths of a suicidal depression: “I cannot live with myself any longer.”[^tolle-now] He then noticed the strangeness of it — if that is true, there must be two of him: the “I” and the “self” he cannot live with.[^onbeing] One of them, he concluded, must not be real. That split is the whole teaching in miniature.[^claude]
 
 
 
 ### Default Mode Network, DMN
 Neuroscience has identified the brain's "Default Mode Network" as the set of regions that becomes active when the mind is not focused on a task in the outside world — when it wanders, talks to itself, replays the past, or imagines the future.[^raichle-2001]<sup>,</sup>[^raichle-2015] It can be viewed as the "residence" for the Ego!
 
-I am not alone in that view. Neuroscientists Robin Carhart-Harris and Karl Friston have proposed that the Default Mode Network carries what psychology calls "ego functions,"[^carhart-harris-2010] and a study of experienced meditators found reduced activity in the network's main hubs while they meditated.[^brewer-2011] In other words, the practice of presence appears to quiet the very network in which the mind wanders into the past and the future.[^claude-dmn]
+I am not alone in that view. Neuroscientists Robin Carhart-Harris and Karl Friston have proposed that the Default Mode Network carries what psychology calls "ego functions,"[^carhart-harris-2010] and a study of experienced meditators found reduced activity in the network's main hubs while they meditated.[^brewer-2011] In other words, the practice of presence appears to quiet the very network in which the mind wanders into the past and the future.[^claude]
 
 
 
@@ -79,7 +79,7 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 
 # References
 
-[^claude]: The first two paragraphs of this entry and the “About Eckhart Tolle” note were drafted by Claude, an AI assistant made by Anthropic, at my request, as a summary of Eckhart Tolle’s teaching in *The Power of Now* (1997) and *A New Earth* (2005). I reviewed the wording and kept it.
+[^claude]: Paragraph drafted by Claude, an AI assistant made by Anthropic.
 
 [^oprah]: Winfrey, O. [Oprah talks to Eckhart Tolle](https://www.oprah.com/spirit/oprah-talks-to-eckhart-tolle/all). *O, The Oprah Magazine*.
 
@@ -95,4 +95,3 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 
 [^brewer-2011]: Brewer, J. A., et al. (2011). [Meditation experience is associated with differences in default mode network activity and connectivity](https://www.pnas.org/doi/10.1073/pnas.1112029108). *PNAS*, 108(50), 20254–20259.
 
-[^claude-dmn]: In this entry, the description of the network in the first sentence and the whole second paragraph were drafted by Claude, an AI assistant made by Anthropic, at my request. The “residence for the Ego” sentence is my own. I reviewed the wording and kept it.
