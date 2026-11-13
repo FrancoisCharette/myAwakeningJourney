@@ -17,7 +17,8 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 
 # Glossary
 - [Awakening](#awakening)
-- [Default Mode Network, DMN](#default-mode-network-dmn)
+- [Default Mode Network, DMN](#default-mode-network-dmn) 
+- [Disidentification](#disidentification)
 - [Ego](#ego)
 
 [References](#references)
@@ -45,11 +46,15 @@ Awakening does not destroy the Ego. Form still has function; awakened consciousn
 
 
 ### Default Mode Network, DMN
-Neuroscience identified the brain's "Default Mode Network" as being active when self-talk or the inner voice is present.[^raichle-2001]<sup>,</sup>[^raichle-2015] It can be viewed as the "residence" for the Ego!
+Neuroscience has identified the brain's "Default Mode Network" as the set of regions that becomes active when the mind is not focused on a task in the outside world — when it wanders, talks to itself, replays the past, or imagines the future.[^raichle-2001]<sup>,</sup>[^raichle-2015] It can be viewed as the "residence" for the Ego!
+
+I am not alone in that view. Neuroscientists Robin Carhart-Harris and Karl Friston have proposed that the Default Mode Network carries what psychology calls "ego functions,"[^carhart-harris-2010] and a study of experienced meditators found reduced activity in the network's main hubs while they meditated.[^brewer-2011] In other words, the practice of presence appears to quiet the very network in which the mind wanders into the past and the future.[^claude-dmn]
+
 
 
 ### Disidentification
 A thought arises, and instead of being carried off inside it, you notice it arising. In that noticing, something is present that is _not_ the thought — it is what you actually are. It can be referenced by many labels, for example presence, awareness, the witnessing consciousness, Being, Formless, etc.
+
 
 
 ### Ego
@@ -71,7 +76,6 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 # Further reading
 
 - [*A Course in Miracles*](https://acim.org/) — Foundation for Inner Peace
-- Brewer, J. A., et al. (2011). [Meditation experience is associated with differences in default mode network activity and connectivity](https://www.pnas.org/doi/10.1073/pnas.1112029108). *PNAS*, 108(50), 20254–20259.
 
 # References
 
@@ -86,3 +90,9 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 [^raichle-2001]: Raichle, M. E., et al. (2001). [A default mode of brain function](https://www.researchgate.net/publication/12122387_A_default_mode_of_brain_function). *PNAS*, 98(2), 676–682.
 
 [^raichle-2015]: Raichle, M. E. (2015). [The brain’s default mode network](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-071013-014030). *Annual Review of Neuroscience*, 38, 433–447.
+
+[^carhart-harris-2010]: Carhart-Harris, R. L., & Friston, K. J. (2010). [The default-mode, ego-functions and free-energy: a neurobiological account of Freudian ideas](https://pmc.ncbi.nlm.nih.gov/articles/PMC2850580). *Brain*, 133(4), 1265–1283.
+
+[^brewer-2011]: Brewer, J. A., et al. (2011). [Meditation experience is associated with differences in default mode network activity and connectivity](https://www.pnas.org/doi/10.1073/pnas.1112029108). *PNAS*, 108(50), 20254–20259.
+
+[^claude-dmn]: In this entry, the description of the network in the first sentence and the whole second paragraph were drafted by Claude, an AI assistant made by Anthropic, at my request. The “residence for the Ego” sentence is my own. I reviewed the wording and kept it.
