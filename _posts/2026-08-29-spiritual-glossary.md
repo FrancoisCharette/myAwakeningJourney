@@ -9,6 +9,8 @@ The reason I feel compelled to make this glossary is that English is not my firs
 
 In the last few years, I realized that such an approach to using the English language is OK for transactional exchanges, but it is not precise enough to discuss or share ideas efficiently. It can easily generate unnecessary confusion of meaning, which is why I decided to create this glossary post. I will try to update it regularly as needed, and use it in all of my posts to be "more precise" in my messaging.
 
+>It is well accepted in the Spiritual Community that Language cannot be used to describe the Formless experiences. Language can only be use as pointer! As such, it is important to be precise for the pointer to point in the right direction.
+
 As a side note, my awakening allowed me to notice that language "imprecision" or "misuse" is one of the approaches or methods used for propaganda messaging.
 
 > A simple example of propaganda that comes to mind is that all of my life I have heard it mentioned in the news, documentaries, etc. how governments "waste" money to buy or build this or that. Nowadays, with social media, it is clear it was never "waste" but actual "fraud". The difference between "waste" and "fraud" is drastic. "Waste" represents incompetence, mismanagement, errors, etc., so there is nothing you can really do about it, while "fraud" is a VOLUNTARY criminal act to enrich someone. That kind of language misuse is, for me, intentional and not an "error"; it _represents propaganda_ to control the emotional response of the public. They explicitly used the term "waste" to elicit disappointment, frustration, etc., nothing more. The use of the term "fraud" would have elicited anger, demands for action, etc.
@@ -19,7 +21,13 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 - [Awakening](#awakening)
 - [Default Mode Network, DMN](#default-mode-network-dmn) 
 - [Disidentification](#disidentification)
-- [Ego](#ego)
+- [Ego](#ego) 
+- [[2026-08-29-spiritual-glossary#Faith|Faith]] 
+- [[2026-08-29-spiritual-glossary#Feeling|Feeling]] 
+- [[2026-08-29-spiritual-glossary#Form|Form]] 
+- [[2026-08-29-spiritual-glossary#Formless|Formless]]  
+- [[2026-08-29-spiritual-glossary#Sensing|Sensing]] 
+- [[2026-08-29-spiritual-glossary#Trust|Trust]] 
 
 [References](#references)
 
@@ -57,6 +65,11 @@ Disidentification is the act of no longer taking your thoughts to be who you are
 
 
 
+### Duality/Non-Duality
+>See Form and Formless
+
+
+
 ### Ego
 The Ego is the "Human interface" created by the Mind for interacting with this Space-Time physical reality. It is made of a "trainable and programmable brain structure" that includes self-talk, the inner voice, imagination (audio-visual), and all thoughts, including the thoughts "generated" by Body emotions and feelings (fear, stress, happiness, love, etc.).
 
@@ -70,6 +83,55 @@ Its defining need is to feel separate and to feel _more_. So it sustains itself 
 > In my posts, when "I" judges, worries, or conceptualizes, it is usually this Ego speaking — the "I" and the Ego are the same construct until they are explicitly seen apart.
 >
 > Note the fact that there are about 8.3 billion human forms on this planet in 2026, which implies there are 8.3 billion different Egos with different experiences, and that is counting only the human species. That number of Egos, plus all their interactions, creates an enormous amount of noise. With such quantity and variability, any time I mention or discuss the Ego, it is up to you to use __your critical thinking__ and decide whether or not it applies to your own experiences!
+
+
+
+### Faith
+Faith is a firm belief in something, especially God, that rests on conviction rather than proof. It's about _what you hold to be true_.
+
+>__Faith in God__ is directly attached to the Formless.
+
+>Faith is __believing__ and Trust is __relying__.
+>	_Faith is the ground, and trust is "the weight" put on it._
+
+
+
+### Feeling
+Feeling are _interpreted sensations_ by the __EGO__. Since the EGO create feelings through Thoughts, it is directly attached to the Form.
+
+>__Examples;__ Feeling happy/Unhappy, tired/exhausted, Hungry, etc. 
+
+
+
+### Form
+The form represent this 3D Space-Time domain known as reality or Duality in the Spiritual circles.
+
+>Eckhart's regularly refer to the __Form__ as the __Horizontal Axis__, for more details see [Eckhart's Axes](https://www.youtube.com/watch?v=kQaGS8uDlJA)
+
+
+
+### Formless
+The Formless represents consciousness, awareness, God, etc. also refer to as Oneness, Emptiness, Spaciousness, Fullness, Non-Duality, etc.
+
+>Eckhart's regularly refer to the **Formless** as the __Vertical Axis__, for more details see [Eckhart's Axes](https://www.youtube.com/watch?v=kQaGS8uDlJA)
+
+
+
+### Sensing
+Sensing is the foundation of Being. I believe all the Awakening terms like Observing, Presence, etc., refer to a special type of Sensing.
+
+
+
+### Trust
+Trust is relying on someone or something to be dependable when you can't control the outcome. It's about _what you lean on in practice_.
+
+>__Trust in God__ is not relying on an outcome, but knowing God is "there". That Your True Self is God!
+
+>__Distrust in God__ happens when the EGO moves the "anchor" of Trust from Faith to this World's Outcomes.
+
+>Trust is __relying__ and Faith is __believing__.
+>	_Faith is the ground, and trust is "the weight" put on it._
+
 
 
 ---
