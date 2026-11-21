@@ -22,12 +22,12 @@ As a side note, my awakening allowed me to notice that language "imprecision" or
 - [Default Mode Network, DMN](#default-mode-network-dmn) 
 - [Disidentification](#disidentification)
 - [Ego](#ego) 
-- [Faith](faith) 
-- [Feeling](feeling) 
-- [Form](form)  
-- [Formless](formless)  
-- [Sensing](sensing) 
-- [Trust](trust) 
+- [Faith](#faith) 
+- [Feeling](#feeling) 
+- [Form](#form)  
+- [Formless](#formless)  
+- [Sensing](#sensing) 
+- [Trust](#trust) 
 
 [References](#references)
 
