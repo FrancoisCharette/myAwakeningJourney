@@ -111,21 +111,21 @@ The form represent this 3D Space-Time domain known as reality or Duality in the 
 
 
 ### Formless
-The Formless represents consciousness, awareness, God, etc. also refer to as Oneness, Emptiness, Spaciousness, Fullness, Non-Duality, etc.
+The Formless represents consciousness, universe, God, etc. Can also refer to True Self, Oneness, Emptiness, Spaciousness, Fullness, Non-Duality, etc.
 
 >Eckhart's regularly refer to the **Formless** as the __Vertical Axis__, for more details see [Eckhart's Axes](https://www.youtube.com/watch?v=kQaGS8uDlJA)
 
 
 
 ### Sensing
-Sensing is the foundation of Being. I believe all the Awakening terms like Observing, Presence, etc., refer to a special type of Sensing.
+Sensing is the foundation of Being. When you stop or pause your thinking, you are left with __the sense of Being__. I believe all the Awakening terms like Observing, Presence, etc., refer to a special type of Sensing.
 
 
 
 ### Trust
 Trust is relying on someone or something to be dependable when you can't control the outcome. It's about _what you lean on in practice_.
 
->__Trust in God__ is not relying on an outcome, but knowing God is "there". That Your True Self is God!
+>__Trust in God__ is not relying on an outcome, but knowing God is "present". That Your True Self is God!
 
 >__Distrust in God__ happens when the EGO moves the "anchor" of Trust from Faith to this World's Outcomes.
 
