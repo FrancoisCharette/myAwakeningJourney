@@ -99,7 +99,7 @@ Faith is a firm belief in something, especially God, that rests on conviction ra
 ### Feeling
 Feeling are _interpreted sensations_ by the __EGO__. Since the EGO create feelings through Thoughts, it is directly attached to the Form.
 
->__Examples;__ Feeling happy/Unhappy, tired/exhausted, Hungry, etc. 
+>__Examples;__ Feeling happy/Unhappy, tired/exhausted, wishing, hoping, etc. 
 
 
 
@@ -119,6 +119,8 @@ The Formless represents consciousness, universe, God, etc. Can also refer to Tru
 
 ### Sensing
 Sensing is the foundation of Being. When you stop or pause your thinking, you are left with __the sense of Being__. I believe all the Awakening terms like Observing, Presence, etc., refer to a special type of Sensing.
+
+>__Sensing__ is directly attached from the Formless!
 
 
 
