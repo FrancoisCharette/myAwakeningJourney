@@ -120,7 +120,7 @@ The Formless represents consciousness, universe, God, etc. Can also refer to Tru
 ### Sensing
 Sensing is the foundation of Being. When you stop or pause your thinking, you are left with __the sense of Being__. I believe all the Awakening terms like Observing, Presence, etc., refer to a special type of Sensing.
 
->__Sensing__ is directly attached from the Formless!
+>__Sensing__ is directly attached to the Formless!
 
 
 
